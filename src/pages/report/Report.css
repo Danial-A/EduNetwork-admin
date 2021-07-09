@@ -1,0 +1,16 @@
+.reportInfoItem{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.postBodySection{
+    display: inline-block;
+    width: 100%;
+}
+
+.delete-button{
+    display: flex;
+    justify-content: center;
+}
